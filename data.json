@@ -1,0 +1,34 @@
+{
+    "employees": [
+        {
+            "userId": "EMP001",
+            "name": "Ambi",
+            "works": [
+                {
+                    "title": "Prepare Sales Report",
+                    "assignedDate": "2026-07-14 10:00",
+                    "dueDate": "2026-07-16 18:00",
+                    "status": "Pending"
+                },
+                {
+                    "title": "Update Customer Database",
+                    "assignedDate": "2026-07-14 11:30",
+                    "dueDate": "2026-07-18 17:00",
+                    "status": "In Progress"
+                }
+            ]
+        },
+        {
+            "userId": "EMP002",
+            "name": "Jack",
+            "works": [
+                {
+                    "title": "Check Inventory",
+                    "assignedDate": "2026-07-14 09:00",
+                    "dueDate": "2026-07-15 18:00",
+                    "status": "Pending"
+                }
+            ]
+        }
+    ]
+}
